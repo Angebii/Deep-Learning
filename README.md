@@ -1,2 +1,2 @@
-# Deep-Learning
-Homeworks for the Deep Learning course @ UniPD (2020)
+# Deep Learning Homework
+Homework of the Deep Learning course @ UniPD (2020)
